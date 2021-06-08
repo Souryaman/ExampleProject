@@ -32,5 +32,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         vm.fetchUsers()
+        println("Hello from your friend")
     }
 }
